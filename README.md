@@ -1,11 +1,4 @@
-# Aplicación financiera
-
-## Entrega
-
-El proyecto será entregado en un repositorio de GitHub. En él deberás agregar
-lo siguiente:
-
-README.md  detallando:
+# Aplicación financiera "Tus Finanzas"
 
 ## Objetivos iniciales del proyecto
 En este proyecto en base a los requerimientos del cliente se busco el rediseño de la aplicación "Tus finanzas" através de metodologías agiles para un avance rápido del proyecto.
