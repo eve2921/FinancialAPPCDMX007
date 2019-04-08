@@ -26,7 +26,7 @@ Al realizar la pruebas de usailidad y analisis heuristico en la etapa inicial de
 
 ## Recomendaciones de próximos pasos para el banco con respecto al app
 -Para conocer la nueva propuesta de diseño para la versión iOS visitar el prototipo de invision, en este ya estan implementados los cambios para el rediseño.
-.. image:: https://i.ibb.co/Nn2G4yS/Ahorros-2.png
+![Pantalla de Ahorro](https://i.ibb.co/Nn2G4yS/Ahorros-2.png)
 
 
 -Respecto al presupuesto de marketing no es necesario usarlo en aumentar los facebook ads, sería mejor primero desarrollar la aplicación en android, ya que según la data recibida de los primero 6 meses de funcionamiento de la app podemos observar que la mayor cantidad de visitas en el landing page se encuentra en dispositivos android.
