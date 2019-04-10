@@ -28,5 +28,5 @@ Al realizar la pruebas de usailidad y analisis heuristico en la etapa inicial de
 
 -[Video de Loom]()
 
--[Prototipo en Maze]()
+-[Prototipo en Maze](https://maze.design/projects/3164533)
 
