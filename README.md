@@ -26,7 +26,7 @@ Al realizar la pruebas de usailidad y analisis heuristico en la etapa inicial de
 
 -[Carpeta de Drive](https://drive.google.com/open?id=1RgooyEFe2Zl-Zoz0G6NKRy_qkYnodF0R) del proceso del proyecto de rediseño
 
--[Video de Loom]()
+-[Video de Loom](https://www.loom.com/share/96b533d6d746498bbbc1973ee6aaeea2)
 
 -[Prototipo en Maze](https://maze.design/projects/3164533)
 
